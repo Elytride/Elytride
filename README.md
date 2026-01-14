@@ -7,8 +7,8 @@
 </p>
 
 <p align="center">
-  <a href="https://jorvanlow.dev"><img src="https://img.shields.io/badge/Portfolio-6366F1?style=for-the-badge&logo=safari&logoColor=white" alt="Portfolio"/></a>
-  <a href="mailto:contact@jorvanlow.dev"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="https://jorvanlow.com"><img src="https://img.shields.io/badge/Portfolio-6366F1?style=for-the-badge&logo=safari&logoColor=white" alt="Portfolio"/></a>
+  <a href="mailto:jorvanlky@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 </p>
 
 ---
@@ -17,11 +17,10 @@
 
 ```javascript
 const jorvan = {
-    location: "Melbourne, Australia",
+    location: ["Melbourne, Australia", "Kuala Lumpur, Malaysia"],
     education: "Data Science @ University of Melbourne",
     languages: ["English", "Mandarin", "Malay"],
-    interests: ["Machine Learning", "Web Development", "Software Engineering", "UI Design"],
-    currentlyExploring: "Pushing the limits of computing and AI to fabricate the impossible!"
+    interests: ["Machine Learning", "Web Development", "Software Engineering", "UI Design"]
 };
 ```
 
@@ -74,57 +73,6 @@ const jorvan = {
   <img src="https://img.shields.io/badge/ComfyUI-8B5CF6?style=for-the-badge&logo=ai&logoColor=white" alt="ComfyUI"/>
 </p>
 </details>
-
----
-
-## 🏆 Featured Projects
-
-### 🎓 [Echo AI](https://echoai.academy/) — *Award-Winning EdTech Platform*
-> Transform conversations into interactive learning experiences with AI-generated quizzes, flashcards, and notes.
-
-`React` `JavaScript` `Python` `Tailwind CSS`
-
-**✨ Features:** Notes Generation • Flashcards • MCQ Quizzes • Voice Input • Math Notation Rendering
-
----
-
-### 🧠 [MindBack](https://devpost.com/software/mindback) — *Chat with Your Past Self*
-> Upload your digital archives and chat with an AI persona based on your past communication style.
-
-`React` `JavaScript` `Python` `Flask`
-
-**✨ Features:** Multi-Platform Data Import • Persona Identification • Year-Based Conversations
-
----
-
-### 🥝 [Kiwi Widget](https://devpost.com/software/kiwi-widget) — *Adorable AI Companion*
-> A miniature AI chatbot with a unique hand-drawn design, powered by Gemini API.
-
-`React` `JavaScript` `Gemini API`
-
-**✨ Features:** Draggable Widget • 3 Beautiful Themes • Multi-Tab Conversations
-
----
-
-### 🏢 [Ancubic Corporate Website](https://ancubic.com) — *Full-Stack Enterprise Solution*
-> Professional property developer website with AI-powered functionality and custom CMS.
-
-`JavaScript` `Python` `Flask` `Firebase`
-
-**✨ Features:** Multilingual (EN/ZH) • AI Chatbot • Custom CMS • AI Image Generator • Real-time Analytics
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Elytride&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Elytride&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" height="165"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Elytride&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak"/>
-</p>
 
 ---
 
